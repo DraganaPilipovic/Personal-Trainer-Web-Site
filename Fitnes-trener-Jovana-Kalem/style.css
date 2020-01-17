@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+nav {
+    width: 100vw;
+    background-color:#000;
+    position: fixed;
+    color: #fff;
+
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+  }
